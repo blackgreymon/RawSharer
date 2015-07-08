@@ -23,7 +23,7 @@
 
 ### Basic Implementation Methods ###
 - FrontEnd: WinJS ([http://try.buildwinjs.com/](http://try.buildwinjs.com/))
-- BackEnd: django [https://www.djangoproject.com/](https://www.djangoproject.com/)
+- BackEnd: django ([https://www.djangoproject.com/](https://www.djangoproject.com/))
 - Database: SQLite || MySQL
 - Player: Three Possible Routes To Try (html5, Flash Client, Audio Daemon Running on Target PC)
 - Lyrics: Javascript
